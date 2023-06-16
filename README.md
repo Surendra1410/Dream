@@ -1,10 +1,10 @@
 # Dream
-2.Clone the repository at https://github.com/KBCNMU
+Clone the repository at https://github.com/KBCNMU
 $ git --version
 $ git --help
 $ git clone https://github.com/Dhanshri1930/KBCNMU19.git
 
-3.Use git add to add that file to the repository.use git commit to commit your change.
+Use git add to add that file to the repository.use git commit to commit your change.
  git clone https://github.com/Dhanshri1930/Nikita.git
 $ cd Nikita
 $ touch Dhanu.txt
@@ -12,7 +12,7 @@ $ git status
 $ git add Dhanu.txt
 $ git commit -m "I'm Dhanshri"
 
-4.use git push to get your parteners change into your repository verify that you have the new files.
+use git push to get your parteners change into your repository verify that you have the new files.
 $ git clone https://github.com/Dhanshri1930/Nikita.git
 $ cd Nikita
 $ touch Dhanu.txt
@@ -21,12 +21,12 @@ $ git add Dhanu.txt
 $ git commit -m "I'm Dhanshri"
 $ git push -u origin main
 
-5.Use git pull to get your partners change into your repository.Verify that you have the new files.
+Use git pull to get your partners change into your repository.Verify that you have the new files.
 $ cd Project4
 $ git init Project4
 $ git pull https://github.com/Surendra1410/Project4.git
 
-6.Use git log or git log | less to see a list of changes to the repository.
+Use git log or git log | less to see a list of changes to the repository.
 $ cd Project4
 $ git log
 $ git log --oneline
@@ -39,7 +39,7 @@ $ git log --author="Surendra1410"
 $ git log --author="surendrasavale928@gmail.com"
 $ git log --grep="Hii I am Aashish"
 
-7.Use git branch to create a new branch and git checkout to switch to the branch.
+Use git branch to create a new branch and git checkout to switch to the branch.
 $ git clone https://github.com/Surendra1410/KBCNMU.git
 $ cd KBCNMU
 $ git branch Surendra
@@ -50,7 +50,7 @@ $ git status
 $ git commit -m "No Subject "
 $ git push -u origin Surendra
 
-8.Use git merge to merge you changes to the primary branch.
+Use git merge to merge you changes to the primary branch.
 $ git clone https://github.com/Surendra1410/Dream.git
 $ cd Dream
 $ touch Dream1.txt
@@ -70,7 +70,7 @@ $ git checkout main
 $ git checkout Surendra
 $ git merge main
 
-9.Demonstrate the use of git diff command.
+Demonstrate the use of git diff command.
 $ git clone https://github.com/Surendra1410/Dream.git
 $ cd Dream
 $ git diff
